@@ -1,0 +1,12 @@
+void setup() {
+  size(480, 820);
+}
+
+void draw() {
+  if (mouseX, mouseY, 80, 80) {
+    fill(135,45,52);
+  } else {
+    fill(255);
+  }
+  ellipse(mouseX, mouseY, 80, 80);
+}
