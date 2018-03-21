@@ -1,0 +1,10 @@
+int x;
+void setup() {
+  size(480, 820);
+}
+
+void draw() {
+ //background(126);
+fill( 123,134,x++);
+ellipse(x++, x++, 33, 33);
+}
