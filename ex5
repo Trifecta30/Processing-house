@@ -1,0 +1,11 @@
+Float angle;
+int pointy;
+void setup() {
+  size(480, 820);
+}
+
+void draw() {
+ //background(126);
+stroke (135);
+fill
+}
